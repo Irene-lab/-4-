@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    color:red;
+    font-size: 50px;
+     text-transform: uppercase;
+
+}
+nav{
+   text-align: center;
+   background-color: red;
+   font-size: 20px;
+   border:solid white;
+   border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white;
+     border:solid white;
+      
+ border-radius:  7px;
+ padding: 5px 10px;
+
+}
+ h2{
+    text-align: center;
+    color:red;
+    font-size: 40px;
+
+}
+p{
+    color:rgb(173, 156, 156);
+    font-size: 20px;
+}
+button a{
+    text-decoration: none;
+    font-size: 50px;
+    background-color:#a966e3;
+    color:#000000;  
+    }
+footer a{
+    text-decoration: none;
+   color: black;
+   font-size: 30px;
+    }
+    body{
+     background-color:#66e3c4;   
+    }
+    button{
+        background-color:#a966e3;
+    }
+    div{
+        background-color: rgb(2, 2, 37);
+    }
+    
